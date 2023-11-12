@@ -6,7 +6,7 @@ export default function About() {
   return (
     <FadeIn>
       <div className="homeContainer">
-        <h1 className="homeTitle">About Me!</h1>
+        <h1 className="homeTitle">Hello!</h1>
       </div>
     </FadeIn>
   );

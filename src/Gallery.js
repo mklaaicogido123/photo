@@ -44,14 +44,19 @@ export default function About() {
 
 const photos = [
   {
-    src: "/Images/2.jpg",
+    src: "/Images/1.jpg",
     width: 4,
     height: 3,
   },
   {
-    src: "/Images/3.jpg",
+    src: "/Images/2.jpg",
     width: 1,
     height: 1,
+  },
+  {
+    src: "/Images/3.jpg",
+    width: 4,
+    height: 3,
   },
   {
     src: "/Images/4.jpg",
@@ -59,47 +64,17 @@ const photos = [
     height: 3,
   },
   {
-    src: "/Images/8.jpg",
+    src: "/Images/5.jpg",
     width: 4,
     height: 3,
   },
   {
-    src: "/Images/21.jpg",
+    src: "/Images/6.jpg",
     width: 4,
     height: 3,
   },
   {
-    src: "/Images/22.jpg",
-    width: 4,
-    height: 3,
-  },
-  {
-    src: "/Images/24.jpg",
-    width: 4,
-    height: 3,
-  },
-  {
-    src: "/Images/25.jpg",
-    width: 4,
-    height: 3,
-  },
-  {
-    src: "/Images/26.jpg",
-    width: 4,
-    height: 3,
-  },
-  {
-    src: "/Images/28.jpg",
-    width: 4,
-    height: 3,
-  },
-  {
-    src: "/Images/31.jpg",
-    width: 4,
-    height: 3,
-  },
-  {
-    src: "/Images/42.jpg",
+    src: "/Images/7.jpg",
     width: 4,
     height: 3,
   },
